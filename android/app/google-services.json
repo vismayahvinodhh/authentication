@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582788106589",
+    "project_id": "aunthentication-59bd3",
+    "storage_bucket": "aunthentication-59bd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582788106589:android:e70d5c250b7605b0a040b4",
+        "android_client_info": {
+          "package_name": "com.example.aunthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByIBZgwYvuVwhZFRg8HJNpUvi4-EcsgQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
